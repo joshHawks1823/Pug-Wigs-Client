@@ -1,0 +1,20 @@
+.nav-color {
+  background-color: #a9a9a9;
+}
+.nav-color span {
+  color: #ff3b3f;
+}
+
+.active-link {
+  background-color: #ff3b3f;
+  color: #fff;
+}
+
+.menu-spacer {
+  flex: 1 1 auto;
+}
+
+a {
+  margin-right: 1.2%;
+  color: #ff3b3f;
+}

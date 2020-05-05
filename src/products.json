@@ -28,5 +28,17 @@
     "name": "Punk",
     "price": 20,
     "id": 5
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/474x/4c/bd/d4/4cbdd4c21c1bedd431b49fa59309b885--funny-dogs-funny-memes.jpg",
+    "name": "The James Dean",
+    "price": 25,
+    "id": 6
+  },
+  {
+    "imgUrl": "https://images.squarespace-cdn.com/content/v1/5a8c888890bade6f9d3453c4/1521135249709-UUBLJBMWGBGTT9JEZ5S0/ke17ZwdGBToddI8pDm48kIXJK910B27PpkOiqUYFUmxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIosw82D5fIHZ3ECD8voV9OQyzEq03wWppL0bSNa99a1AKMshLAGzx4R3EDFOm1kBS/dog-and-wig-black-pug-Dreadlocks-Wig-gles-.jpg?format=1500w",
+    "name": "The Bob Marley",
+    "price": 35,
+    "id": 7
   }
 ]
